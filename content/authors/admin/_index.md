@@ -66,4 +66,3 @@ I am a PhD candidate in Accounting at the Stanford Graduate School of Business. 
 
 I hold a B.S. in Business and M.S. in Accounting from NYU Stern and graduated summa cum laude.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
