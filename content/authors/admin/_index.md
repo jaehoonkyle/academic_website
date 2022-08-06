@@ -9,7 +9,7 @@ superuser: true
 #role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-#organizations:
+organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
 
