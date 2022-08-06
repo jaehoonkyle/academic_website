@@ -17,15 +17,15 @@ superuser: true
 bio: My research interests include 
 
 # Interests to show in About widget
-interests:
-  - Accounting
+#interests:
+#  - Accounting
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Accounting
-      institution: Stanford Graduate School of Business
-      year: 2024
+#education:
+#  courses:
+#    - course: PhD in Accounting
+#      institution: Stanford Graduate School of Business
+#      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,4 +66,4 @@ I am a PhD candidate in Accounting at the Stanford Graduate School of Business. 
 
 I hold a B.S. in Business and M.S. in Accounting from NYU Stern and graduated summa cum laude.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
