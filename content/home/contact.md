@@ -45,7 +45,6 @@ content:
   contact_links:
     - icon: linkedin
     icon_pack: fab
-    name: linkedin
     link: [https://www.linkedin.com/](https://www.linkedin.com/in/kyle-jaehoon-jung-515411139)
   #  - icon: twitter
   #    icon_pack: fab
