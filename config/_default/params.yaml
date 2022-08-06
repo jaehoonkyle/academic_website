@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: cardinalred_theme
-  theme_night: false
+  theme_night: cardinalred_theme
   font: minimal
   font_size: M
 
