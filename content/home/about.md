@@ -1,4 +1,4 @@
----
++++
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
@@ -22,4 +22,4 @@ author: admin
 
 [design.spacing]
   padding = ["15px", "0", "15px", "0"]
----
++++
