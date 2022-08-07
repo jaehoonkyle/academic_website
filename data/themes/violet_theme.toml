@@ -3,6 +3,7 @@ name = "Violet"
 
 # Is theme light or dark?
 light = true
+dark=true
 
 # Primary
 primary = "#57068c"
