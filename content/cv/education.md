@@ -21,11 +21,9 @@ weight = 3  # Order that this section will appear in.
 +++
 
 ## **Education**
-**New York University, Stern School of Business**, New York, NY | 2015- 2021  
-Ph.D. in Finance (2021)  
-M.Phil in Finance (2019) 
+**Stanford Graduate School of Business**, Stanford, CA | 2019- Current  
+Ph.D. Candidate in Accounting   
 
-**University of Pennsylvania**, Philadelphia, PA  
-_Jerome Fisher Program in Management and Technology_  
-**The Wharton School** | Bachelor of Science in Economics, _Magna Cum Laude_ (2012)  
-**The School of Engineering and Applied Science** | Bachelor of Applied Science, _Magna Cum Laude_ (2012)
+**New York University, Stern School of Business**, New York, NY | 2013-2019  
+**Master of Science in Accounting  
+**Bachelor of Science in Business, _Summa Cum Laude_ 
