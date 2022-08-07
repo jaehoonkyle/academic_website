@@ -25,5 +25,5 @@ weight = 3  # Order that this section will appear in.
 Ph.D. Candidate in Accounting   
 
 **New York University, Stern School of Business**, New York, NY | 2013-2019  
-**Master of Science in Accounting  
-**Bachelor of Science in Business, _Summa Cum Laude_ 
+Master of Science in Accounting  
+Bachelor of Science in Business, _Summa Cum Laude_ 
