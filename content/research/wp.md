@@ -24,13 +24,10 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 **Project 1**  
-
 Abstract
 
 **Collaborative Project 1**
-
 Abstract
 
 **Collaborative Project 2**
-
 Abstract
