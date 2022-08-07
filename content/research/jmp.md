@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-Dynamic Contracting with Investment and Reporting Distortions  
-Dissertation Committee: Ivan Marinovic   
+Job Market Paper 
+Dissertation Committee:   
 
 Abstract
