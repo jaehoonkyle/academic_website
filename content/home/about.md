@@ -12,6 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+[design.spacing]
+  padding = ["15px", "0", "15px", "0"]
 
 title: Kyle (Jaehoon) Jung
 
@@ -21,6 +23,4 @@ title: Kyle (Jaehoon) Jung
 author: admin
 ---
 
-[design.spacing]
-  padding = ["15px", "0", "15px", "0"]
 
