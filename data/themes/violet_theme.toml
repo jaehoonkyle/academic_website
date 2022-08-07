@@ -2,8 +2,8 @@
 name = "Violet"
 
 # Is theme light or dark?
-light = true
-dark=true
+day = true
+night=true
 
 # Primary
 primary = "#57068c"
