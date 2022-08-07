@@ -26,8 +26,12 @@ weight = 2  # Order that this section will appear in.
 **Project 1**  
 Abstract
 
+
 **Collaborative Project 1**
+
 Abstract
 
+
 **Collaborative Project 2**
+
 Abstract
