@@ -18,6 +18,8 @@ name = "cardinal"
 [dark]
   # Primary
   primary = "#8c1515"
+  
+  menu_text_active = "#8c1515"
 
   link = "#bbdefb"
   link_hover = "#8c1515"
