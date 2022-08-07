@@ -12,6 +12,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+[design.spacing]
+  padding = ["40px", "0", "40px", "0"]
++++
+
 title: Kyle (Jaehoon) Jung
 
 # Choose the user profile to display
