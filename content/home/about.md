@@ -22,4 +22,4 @@ author: admin
 
 [design.spacing]
   padding = ["15px", "0", "15px", "0"]
-+++
+---
