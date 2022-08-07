@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: cardinal
+  theme_night: cardinal
   font: raleway_set
   font_size: M
 
