@@ -20,3 +20,7 @@ title: Kyle (Jaehoon) Jung
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+[design.spacing]
+  padding = ["15px", "0", "15px", "0"]
++++
