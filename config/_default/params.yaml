@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: violet_theme
+  theme: violet_theme
   font: raleway_set
   font_size: M
 
