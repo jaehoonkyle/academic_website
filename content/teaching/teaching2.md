@@ -9,20 +9,9 @@ weight = 2  # Order that this section will appear in.
 
 +++
 ## **Teaching Fellow**  
-**Volatility (MBA)**  | January 2020  
-Professor Robert Engle<br/><br/>
+**Compensating Talent: A Managerial Accounting Perspective (MBA)**  | Spring 2022  
+Professor Ivan Marinovic<br/><br/>
 
-**Financial Econometrics (Ph.D.)**  | Spring 2017  
-Professor Robert Engle<br/><br/>    
+**Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
+Professor Charles Lee & Kevin Smith<br/><br/>    
 
-**Principles of Securities Trading (Undergraduate)**  | Spring & Fall 2017, 2018, Fall 2020  
-Professor Joel Hasbrouck<br/><br/>    
-
-**Investments (Executive MBA)**  | Fall 2019  
-Professor Anthony Lynch<br/><br/>    
-
-**Foundations of Finance (MBA)**  | Summer 2017, 2018, 2019  
-Professor Anthony Lynch<br/><br/>    
-
-**Stern Signature Project (MBA)**  | Spring 2021  
-Professor Robert Engle
