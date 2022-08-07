@@ -28,7 +28,6 @@ Abstract
 
 
 **Collaborative Project 1**
-
 Abstract
 
 
