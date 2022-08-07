@@ -6,10 +6,10 @@ name = "cardinal"
   primary = "#8c1515"
 
   # Menu
-  menu_primary = "#8c1515"
-  menu_text = "#8c1515"
+  menu_primary = "#fff"
+  menu_text = "#2b2b2b"
   menu_text_active = "#8c1515"
-  menu_title = "#8c1515"
+  menu_title = "#2b2b2b"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -19,5 +19,5 @@ name = "cardinal"
   # Primary
   primary = "#8c1515"
 
-  link = "#8c1515"
+  link = "#bbdefb"
   link_hover = "#8c1515"
