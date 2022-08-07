@@ -13,5 +13,5 @@ weight = 2  # Order that this section will appear in.
 Professor Ivan Marinovic<br/><br/>
 
 **Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
-Professor Charles Lee & Kevin Smith<br/><br/>    
+Professors Charles Lee & Kevin Smith<br/><br/>    
 
