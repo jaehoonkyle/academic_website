@@ -1,19 +1,23 @@
-# Theme metadata
-name = "Violet"
+## Theme metadata
+name = "Minimal"
 
-# Is theme light or dark?
-day = true
-night=true
+[light]
+  # Primary
+  primary = "#8c1515"
 
-# Primary
-primary = "#57068c"
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#2962ff"
+  menu_title = "#2b2b2b"
 
-# Menu
-menu_primary = "#fff"
-menu_text = "#2b2b2b"
-menu_text_active = "#57068c"
-menu_title = "#2b2b2b"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+[dark]
+  # Primary
+  primary = "#8c1515"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
