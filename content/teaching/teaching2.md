@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear in.
 
 [design.spacing]
-  padding = ["15px", "0", "15px", "0"]
+  padding = ["40px", "0", "40px", "0"]
 
 +++
 ## **Teaching Fellow**  
