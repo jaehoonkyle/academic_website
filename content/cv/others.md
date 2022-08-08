@@ -21,5 +21,5 @@ weight = 10  # Order that this section will appear in.
 +++
 
 ## **Other Experience**
-Seoul Metropolitan Police Agency, Seoul, Korea | 2014- 2016  
-Auxiliary Police, Public Security Force Command
+Public Security Force Command, Seoul, Korea | 2014- 2016  
+Auxiliary Police, Mandatory National Service
