@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear in.
 
 [design.spacing]
-  padding = ["15px", "0", "15px", "0"]
+  padding = ["100px", "0", "100px", "0"]
 
 +++
 **Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
