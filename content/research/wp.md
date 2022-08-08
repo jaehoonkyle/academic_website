@@ -23,13 +23,6 @@ weight = 2  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "2px", "40px", "2px"]
 +++
-**Project 1**  
+**Project 2**  
 Abstract
 
-
-**Collaborative Project 1**  
-Abstract
-
-
-**Collaborative Project 2**  
-Abstract
