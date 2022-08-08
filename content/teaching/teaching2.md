@@ -12,4 +12,5 @@ weight = 2  # Order that this section will appear in.
 **Compensating Talent: A Managerial Accounting Perspective (MBA)**  | Spring 2022  
 Professor Ivan Marinovic<br/><br/>
 
-
+**Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
+Professors Charles M. C. Lee, Kevin Smith<br/><br/>   
