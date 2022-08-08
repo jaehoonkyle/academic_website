@@ -20,6 +20,6 @@ weight = 10  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## **Other Experiences**
-Seoul Metropolitan Police Agency, Seoul, Korea | 2014- 2016
+## **Other Experience**
+Seoul Metropolitan Police Agency, Seoul, Korea | 2014- 2016  
 Auxiliary Police, Public Security Force Command
