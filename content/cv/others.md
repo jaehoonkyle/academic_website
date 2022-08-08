@@ -22,4 +22,4 @@ weight = 10  # Order that this section will appear in.
 
 ## **Other Experience**
 Public Security Force Command, Seoul, Korea | 2014- 2016  
-Auxiliary Police, Mandatory National Service
+Auxiliary Police, Military Service
