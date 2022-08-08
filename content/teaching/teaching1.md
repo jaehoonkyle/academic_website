@@ -20,9 +20,6 @@ weight = 1  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "0", "40px", "0"]
 +++
-## **Course Instructor**  
-**Foundations of Finance (Undergraduate)** | Summer 2018  
-Overall Evaluation: **5.0** / 5.0  
-_Awarded Commendation for Teaching Excellence_
-
-{{% staticref "files/Syllabus_2018_HJ.pdf" "newtab" %}}Syllabus{{% /staticref %}} | {{% staticref "files/TeachingEval_HJ.pdf" "newtab" %}}Teaching Evaluation{{% /staticref %}}
+## **Teaching Fellow**  
+**Compensating Talent: A Managerial Accounting Perspective (MBA)**  | Spring 2022  
+Professor Ivan Marinovic<br/><br/>
