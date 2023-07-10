@@ -23,7 +23,8 @@ weight = 2  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "2px", "40px", "2px"]
 +++
-[**Moral Hazard and the Value of Information: A Structural Approach**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4291189) (with Jeremy Bertomeu and Ivan Marinovic)    
+[**Moral Hazard and the Value of Information: A Structural Approach**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4291189) (with Jeremy Bertomeu and Ivan Marinovic)
+** R&R at <i><u>Journal of Accounting Research (JAR)</u></i>**
 Executive compensation contracts use information from markets and accounting to elicit efficient incentives. We structurally estimate the contribution of each performance to quantify the relative importance of price versus accounting. For plausible risk-aversion coefficients consistent with the sample, the cost of moral hazard, defined as the risk premium to be paid to elicit incentives, amounts to $4.17 million; further, in counterfactuals, we show that absent reliable accounting performance measures, average compensation increases by approximately one eighth versus more than doubling if price information is unavailable (e.g., a non-public firm). At high risk-aversion levels, dropping accounting or price information would make it infeasible to elicit high effort, with a maximal potential loss in firm value of $6.24 million without accounting and $16.13 million without price information. These results offer a first attempt to quantitatively assess the value of accounting signals in executive contracts.
 <br/>  
 **Deviations from the Law of One Price across Economies** (with Hyeyoon Jung)  
