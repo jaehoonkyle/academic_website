@@ -24,5 +24,5 @@ weight = 3  # Order that this section will appear in.
   padding = ["100px", "2px", "100px", "2px"]
 +++
 
-**Project 3**   
-Abstract
+**Disclosure and Stock Market Participation**  
+(with Kevin Smith)
