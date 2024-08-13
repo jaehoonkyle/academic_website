@@ -20,4 +20,4 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## Download full CV {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}here{{% /staticref %}}  
+## Download full CV {{% staticref "files/KyleJaehoonJung_CV.pdf" "newtab" %}}here{{% /staticref %}}  
