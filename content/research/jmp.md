@@ -25,7 +25,7 @@ weight = 1  # Order that this section will appear in.
 +++
 
 [**The Real Consequences of Macroprudential FX Regulations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949884)  
-Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck  
+Dissertation Committee: Ivan Marinovic (Chair), Maureen McNichols, and Kevin Smith  
 
 I exploit a natural experiment in South Korea to examine the real effects of macroprudential foreign exchange (FX) regulations designed to reduce risk-taking by financial intermediaries. By using cross-bank variation in the regulation's tightness, I show that it causes a reduction in the supply of FX derivatives (FXD) and results in a substantial decline in exports for the firms that were heavily relying on FXD hedging. I offer a mechanism in which imbalances in hedging demand, banks' costly equity financing, and firms' costly switching of banking relationships play a central role in explaining the empirical findings.  
 
