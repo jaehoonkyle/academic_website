@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-**Job Market Paper**  
-Dissertation Committee:   
+**Green Moral Hazard: Estimating the Financial and the Green Impacts of ESG Incentives**  
+Dissertation Committee: Ivan Marinovic (Chair), Maureen McNichols, Kevin Smith    
 
-Abstract
+I structurally estimate the financial and the environmental implications of the actions induced by executive compensation contracts involving ESG (Environmental, Social, and Governance) incentives. I find that such contracts incentivize CEOs to make tangible financial sacrifices to improve ESG performance: approximately 1\% of firm value for carbon emission intensity reduction of 1.23\% per year. I then examine the extent of moral hazard and the value of information associated with the ESG incentives. Through counterfactual analyses, I find that the cost of incentivizing improvement in ESG performance on top of maximizing financial performance, i.e., ``green moral hazard", is substantial: \$1.41 million, out of the total moral hazard cost of \$1.67 million, could be attributed to green moral hazard. 
