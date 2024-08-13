@@ -27,4 +27,4 @@ Ph.D. Candidate in Accounting
 **New York University, Stern School of Business**, New York, NY | 2013-2019  
 _BS/MS in Accounting Dual Degree Program_  
 Master of Science in Accounting  
-Bachelor of Science in Business, _Summa Cum Laude_ 
+Bachelor of Science in Business (Dual Major in Mathematics), _Summa Cum Laude_ 
