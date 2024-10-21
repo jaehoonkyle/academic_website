@@ -25,4 +25,6 @@ weight = 3  # Order that this section will appear in.
 +++
 
 **Disclosure and Stock Market Participation**  
-(with Kevin Smith)
+(with Kevin Smith)  
+Standard setters often cite investors’ confidence in the stock market and its impact on their desire to participate in this market as key motivations for disclosure regulations. This paper models how the informativeness and complexity of public disclosures influence market participation among unsophisticated investors who face ambiguity about the distribution of firms' cash flows. In contrast to the common perception, we demonstrate that disclosure has countervailing effects on participation. While it reduces ambiguity, which encourages participation, it can also diminish the equity risk premium, especially during times of market stress, which discourages participation. Consequently, while simpler disclosures generally increase participation, more informative disclosures may have the opposite effect. We explore the implications for investor welfare and the design of optimal disclosure regulation.
+<br/>  
