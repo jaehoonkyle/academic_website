@@ -62,7 +62,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Accounting at the Stanford Graduate School of Business. My research interest include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.
+I am a PhD candidate in Accounting at the Stanford Graduate School of Business. My research interests include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.
 
 I hold a B.S. in Business and a M.S. in Accounting from NYU Stern and graduated summa cum laude.
 
