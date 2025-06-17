@@ -21,8 +21,8 @@ weight = 3  # Order that this section will appear in.
 +++
 
 ## **Education**
-**Stanford Graduate School of Business**, Stanford, CA | 2019- Current  
-Ph.D. Candidate in Accounting   
+**Stanford Graduate School of Business**, Stanford, CA | 2019-2025  
+Ph.D. in Accounting   
 
 **New York University, Stern School of Business**, New York, NY | 2013-2019  
 _BS/MS in Accounting Dual Degree Program_  
