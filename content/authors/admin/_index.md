@@ -62,8 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Accounting at the Stanford Graduate School of Business. My research interests include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.  
-I hold a B.S. in Business and a M.S. in Accounting from NYU Stern and graduated summa cum laude.
-
-I will be joining NYU Stern as an Assistant Professor of Accounting in Summer 2025.
+I will be an assistant professor in Accounting at NYU Stern School of Business, starting July 2025. My research interests include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.  
+I hold a Ph.D in Accounting from Stanford University, M.S. in Accounting and a B.S. in Business with summa cum laude from NYU Stern.
 
