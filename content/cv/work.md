@@ -21,14 +21,6 @@ weight = 2  # Order that this section will appear in.
 +++
 
 ## **Employment**
-**Federal Reserve Bank of New York**, New York, NY | 2021- Current  
-Financial Research Economist, Financial Intermediation Policy Research    
+**NYU Stern School of Business**, New York, NY | 2025- Current  
+Assistant Professor of Accounting  
 
-**J.P. Morgan**, Singapore, Singapore | 2012- 2015  
-Associate, FX & Rates Trading  
-
-**J.P. Morgan**, Singapore, Singapore | 2011   
-Summer Analyst, FX & Rates Trading  
-
-**Goldman Sachs**, Seoul, Korea | 2010   
-Summer Analyst, Fixed Income Currency & Commodities
