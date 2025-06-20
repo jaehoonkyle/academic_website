@@ -42,7 +42,11 @@ content:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
-  #contact_links:
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIn
+      link: 'https://www.linkedin.com/in/kyle-jung-515411139/'
   #  - icon: twitter
   #    icon_pack: fab
   #    name: DM Me
@@ -51,14 +55,14 @@ content:
   #    icon_pack: fas
   #    name: Zoom Me
   #    link: 'https://zoom.com'
-  contact_links = [
+  #contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "hyeyooon", link = "skype:hyeyooon?call"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/kyle-jung-515411139/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  #]
 
 design:
   columns: '2'
