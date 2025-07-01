@@ -62,7 +62,7 @@ email: ''
 highlight_name: true
 ---
 
-I will be an assistant professor in Accounting at NYU Stern School of Business, starting July 2025. My research interests include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.  
+I am an assistant professor in Accounting at NYU Stern School of Business. My research interests include dynamic disclosure and investment, earnings management, contracting, information in markets, and dynamic asset pricing.  
 
 I hold a Ph.D in Accounting from Stanford University, an M.S. in Accounting and a B.S. in Business with summa cum laude from NYU Stern.
 
