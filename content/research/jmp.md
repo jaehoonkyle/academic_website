@@ -24,8 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-**Green Moral Hazard: Estimating the Financial and Non-financial Impacts of CEO Incentives**  
-{{% staticref "files/KyleJaehoonJung_JMP.pdf" "newtab" %}}Latest Version{{% /staticref %}}  
+[**Green Moral Hazard: Estimating the Financial and Non-financial Impacts of CEO Incentives**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5450277)  
 Dissertation Committee: Ivan Marinovic (Chair), Maureen McNichols, and Kevin Smith  
 
 I develop a novel structural model for analyzing the financial and non-financial implications of CEO compensation contracts that include incentives tied to non-financial performance. By applying this model to green incentives, I find that they motivate CEOs to reduce carbon emission intensity by 1.8% per year but at a financial cost of 1.3% of firm value annually. As green performance is an imperfect signal of CEOs' actions toward green outcomes, a "green moral hazard” arises: the principal should offer CEOs a premium for the risk added by green incentives. I estimate that this green moral hazard is substantial, accounting for $1.72 million of the total moral hazard cost of $2.05 million. These results suggest that green incentives pose an important economic trade-off: while green incentives can lead to meaningful environmental improvements, they impose substantial costs on the firm.  
