@@ -9,7 +9,7 @@ weight = 2  # Order that this section will appear in.
 
 +++
 ## **Teaching Fellow**  
-Compensating Talent: A Managerial Accounting Perspective (MBA) | Spring 2022
+**Compensating Talent: A Managerial Accounting Perspective (MBA)**  | Spring 2022  
 Professor Ivan Marinovic
 <br/>  
 **Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
