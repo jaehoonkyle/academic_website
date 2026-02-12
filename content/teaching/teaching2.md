@@ -8,5 +8,6 @@ weight = 2  # Order that this section will appear in.
   padding = ["100px", "0", "100px", "0"]
 
 +++
+<br/>  
 **Alphanomics: Informational Arbitrage in Equity Markets (MBA)**  | Spring 2021, 2022  
 Professors Charles M. C. Lee, Kevin Smith<br/><br/>   
