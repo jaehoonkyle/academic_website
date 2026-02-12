@@ -8,6 +8,7 @@ weight = 2  # Order that this section will appear in.
   padding = ["100px", "0", "100px", "0"]
 
 +++
+## **Teaching Fellow**  
 Compensating Talent: A Managerial Accounting Perspective (MBA) | Spring 2022
 Professor Ivan Marinovic
 <br/>  
