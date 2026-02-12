@@ -20,6 +20,6 @@ weight = 1  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "0", "40px", "0"]
 +++
-## **Teaching Fellow**  
-**Compensating Talent: A Managerial Accounting Perspective (MBA)**  | Spring 2022  
-Professor Ivan Marinovic<br/><br/>
+## **Instructor**  
+**Principles of Financial Accounting (Undergraduate)**  | Spring 2026  
+<br/><br/>
