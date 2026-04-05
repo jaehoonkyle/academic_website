@@ -30,6 +30,9 @@ Executive compensation contracts use information from markets and accounting to 
 <br/>  
 [**Managerial Myopia, Voluntary Disclosure, and Learning from Markets**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5841983)  
 I study voluntary disclosure and its effect on investment efficiency when myopic managers learn from stock prices before making investment decisions. In an investment feedback model with privately informed investors, I show a novel mechanism through which voluntary disclosure can encourage information acquisition and improve investment efficiency. When a firm discloses a good news about a project, investors expect the firm to invest more in the project. This raises the trading profits that informed investors can make from private information, and in turn strengthens incentives to acquire it. I then combine this insight with managerial myopia. In general, I find that myopia leads to excessive disclosure, crowding out information acquisition by investors. However, this adverse effect of myopia is mitigated when the manager's information quality is low and the project is risky. My findings suggest that strategic disclosure can increase managerial learning from market and mitigate the adverse consequences of short-term managerial incentives.
+
+Presentations (including scheduled): Annual Conference of the Accounting and Economics Society, Four-School Accounting Research Conference
+
 <br/>  
 [**Economics of Property Insurance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804802)  
 (with Hyeyoon Jung)  
