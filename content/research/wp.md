@@ -24,6 +24,7 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 [**Green Moral Hazard: Estimating the Financial and the Real Implications of CEO Incentives**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5450277)  
+**Job Market Paper**  
 Dissertation Committee: Ivan Marinovic (Chair), Maureen McNichols, and Kevin Smith  
 
 I develop a novel structural model and quantify the financial and the real implications of CEO compensation contracts with incentives tied to real, environmental outcomes. In terms of the direct tradeoff in the absence of agency friction, I find that the incentives motivate CEOs to reduce carbon emission intensity by 1.8% per year but at a financial cost of 1.3% of firm value annually. Moral hazard makes the environmental improvement even more costly. As green performance is an imperfect signal of CEOs’ actions toward green outcomes, a "green moral hazard” arises: the CEOs require a premium for the risk added by green incentives. I estimate that this green moral hazard is substantial, accounting for $1.72 million of the total moral hazard cost of $2.05 million. These results suggest that green incentives pose an important economic trade-off: while green incentives can lead to meaningful environmental improvements, they impose substantial costs on the firm.  
