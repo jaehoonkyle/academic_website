@@ -25,6 +25,6 @@ weight = 2  # Order that this section will appear in.
 +++
 [**Moral Hazard and the Value of Information: A Structural Approach**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4291189)  
 (with Jeremy Bertomeu and Ivan Marinovic)  
-**R&R at <i><u>Journal of Accounting Research (JAR)</u></i>**  
+**Accepted at <i><u>Journal of Accounting Research (JAR)</u></i>**  
 Executive compensation contracts use information from markets and accounting to elicit efficient incentives. We structurally estimate the contribution of each performance measure to quantify the relative importance of stock price versus accounting signals. For plausible risk-aversion levels, the average cost of moral hazard, defined as the risk premium paid to elicit effort, is about $ 3.5 million. In counterfactuals, we show that in the absence of reliable accounting performance measures, average compensation increases by approximately 16%, and by more than a factor of three when price information is unavailable (e.g., for a non-public firm). At high risk-aversion levels, relying only on accounting variables can make it suboptimal or infeasible to elicit high effort, imposing potentially large losses on shareholders. These results provide a first quantitative assessment of the value of accounting signals in executive contracts.
 <br/>  
