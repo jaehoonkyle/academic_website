@@ -2,7 +2,7 @@
 widget = "blank"  # The name of the widget that you created.
 title = "Job Market Paper"
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear in.
 [design.background]
   # Apply a background color, gradient, or image.
